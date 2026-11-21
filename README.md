@@ -1,6 +1,5 @@
 # csv_cleaner.py
 A small Python script that cleans a CSV of support tickets. 
-
 # What it does
 1. Trims whitespace from every value and from the header names.
 2. Removes blank rows, meaning rows that are empty after trimming (for example ,,,,).
